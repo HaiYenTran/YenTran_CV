@@ -58,19 +58,12 @@ education:
     - degree: Fsoft – Global Software talent                                                   
       university: Fsoft
       time: 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
+           
+ experiences:
     - role: Tester (Contractor)
       time: October, 2017 to Present
       company: KMS Technology - ERT Project 
-      details: |
+      details: 
       The Tester (Contractor) works (hands on) on the validation of study software, reports, translations and change control,
       as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions. The Tester
       (Contractor) is also responsible for the overall test effort, quality, and timelines for assigned projects, taking
