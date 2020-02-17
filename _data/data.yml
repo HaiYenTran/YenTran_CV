@@ -45,13 +45,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: | 
 education:
     - degree: Bachelor's degree Communication and computer network
 
@@ -65,9 +59,7 @@ experiences:
     - role: Tester(Contractor)
       time: October, 2017 to Present
       company: KMS Technology - ERT Project 
-      details: | 
-      The Tester (Contractor) works (hands on) on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions. 
-      The Tester(Contractor) is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
+      details: |The Tester (Contractor) works (hands on) on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions.|The Tester(Contractor) is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
           -     Execute test scripts.
           -     Report defect and testing process, investigate issues.
           - 	Responsible for testing deliverables released in agreed timelines and quality.
