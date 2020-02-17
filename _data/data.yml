@@ -65,26 +65,28 @@ experiences:
     - role: Tester(Contractor)
       time: October, 2017 to Present
       company: KMS Technology - ERT Project 
-      details: | The Tester (Contractor) works (hands on) on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions. |The Tester(Contractor) is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
-          |•	Execute test scripts.
-          |•	Report defect and testing process, investigate issues.
-          |•	Responsible for testing deliverables released in agreed timelines and quality.
-          |•	Create the test cases, test summary and traceability documents for studies.
-          |•	Assigns and coordinates testing task and monitors their efficiency and quality
-          |•	Creates and runs reports on the project.
-          |•	Provides accurate testing estimates to squad team.
-          |•	Provides timely feedback when specifications are incomplete or inaccurate.
+      details: | 
+      The Tester (Contractor) works (hands on) on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions. 
+      The Tester(Contractor) is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
+          -     Execute test scripts.
+          -     Report defect and testing process, investigate issues.
+          - 	Responsible for testing deliverables released in agreed timelines and quality.
+          - 	Create the test cases, test summary and traceability documents for studies.
+          - 	Assigns and coordinates testing task and monitors their efficiency and quality
+          - 	Creates and runs reports on the project.
+          - 	Provides accurate testing estimates to squad team.
+          - 	Provides timely feedback when specifications are incomplete or inaccurate.
 
     - role: Interns
       time: May, 2017 to October, 2017
 
       company: DEK Technology VN, Ho Chi Minh, Vietnam 
       details: |
-        |•	Execute test script, developed test cases and test scenarios for functional test
-        |•	Prepare test environment on Jenkins.
-        |•	Run test with Jenkins.
-        |•	Support team member.
-        |•	Apply Agile/Scrum testing process
+        -   	Execute test script, developed test cases and test scenarios for functional test
+        -   	Prepare test environment on Jenkins.
+        -   	Run test with Jenkins.
+        -   	Support team member.
+        -   	Apply Agile/Scrum testing process
 projects:
     title: Project
     intro: >
