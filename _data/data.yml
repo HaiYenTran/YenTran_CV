@@ -5,12 +5,10 @@
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-
     # Profile information
     name: Yen Hai Tran
     tagline: QA Engineering
     avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
     # Sidebar links
     email: tranyen93@gmail.com
     phone: 0858400957
@@ -23,94 +21,74 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-
     languages:
       - idiom: English
-        level: 
-        
+        level:       
       - idiom: Japanese
         level: 
-
-     
-
     interests:
       - item: Reading
         link:
-
       - item: Travel
         link:
-
       - item: Cooking
         link:
-
 career-profile:
     title: Career Profile
     summary: | 
+    Trustworthy, Reponsible, and Sociable.
 education:
     - degree: Bachelor's degree Communication and computer network
-
       university: University of Can Tho
-      time: 2014 - 2018
-     
+      time: 2014 - 2018    
     - degree: Fsoft – Global Software talent                                                   
       university: Fsoft
       time: 2016
 experiences:
-    - role: Tester(Contractor)
+    - role: Tester
       time: October, 2017 to Present
       company: KMS Technology - ERT Project 
-      details: |The Tester (Contractor) works (hands on) on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions.|The Tester(Contractor) is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
-          -     Execute test scripts.
-          -     Report defect and testing process, investigate issues.
-          - 	Responsible for testing deliverables released in agreed timelines and quality.
-          - 	Create the test cases, test summary and traceability documents for studies.
-          - 	Assigns and coordinates testing task and monitors their efficiency and quality
-          - 	Creates and runs reports on the project.
-          - 	Provides accurate testing estimates to squad team.
-          - 	Provides timely feedback when specifications are incomplete or inaccurate.
-
+      details: |
+      The Tester works on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions.
+      The Tester is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
+          - Execute test scripts.
+          - Report defect and testing process, investigate issues.
+          - Responsible for testing deliverables released in agreed timelines and quality.
+          - Create the test cases, test summary and traceability documents for studies.
+          - Assigns and coordinates testing task and monitors their efficiency and quality
+          - Creates and runs reports on the project.
+          - Provides accurate testing estimates to squad team.
+          - Provides timely feedback when specifications are incomplete or inaccurate.
     - role: Interns
       time: May, 2017 to October, 2017
-
       company: DEK Technology VN, Ho Chi Minh, Vietnam 
       details: |
-        -   	Execute test script, developed test cases and test scenarios for functional test
-        -   	Prepare test environment on Jenkins.
-        -   	Run test with Jenkins.
-        -   	Support team member.
-        -   	Apply Agile/Scrum testing process
+        - Execute test script, developed test cases and test scenarios for functional test
+        - Prepare test environment on Jenkins.
+        - Run test with Jenkins.
+        - Support team member.
+        - Apply Agile/Scrum testing process
 projects:
     title: Project
     intro: >
-    
     assignments:
       - title: ERT - eResearch Technology, Inc.
         link: "#hook"
         tagline: Nearly 50 years of experience in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations.
-
-
-
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Python
         level: 10%
-
       - name: Javascript 
         level: 30%
-
       - name: Selenium
         level: 30%
-
       - name: HTML5 & CSS
         level: 50%
-
       - name: Java
         level: 60%
-
       - name: Photoshop
         level: 40%
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Yen Hai Tran</a>
