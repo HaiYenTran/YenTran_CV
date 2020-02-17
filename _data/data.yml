@@ -36,7 +36,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: | 
-    Trustworthy, Reponsible, and Sociable.
+   
 education:
     - degree: Bachelor's degree Communication and computer network
       university: University of Can Tho
@@ -49,9 +49,7 @@ experiences:
       time: October, 2017 to Present
       company: KMS Technology - ERT Project 
       details: >
-      The Tester works on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions.
-      The Tester is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
-          - Execute test scripts.
+       - Execute test scripts.
           - Report defect and testing process, investigate issues.
           - Responsible for testing deliverables released in agreed timelines and quality.
           - Create the test cases, test summary and traceability documents for studies.
@@ -74,7 +72,7 @@ projects:
     assignments:
       - title: ERT - eResearch Technology, Inc.
         link: "#hook"
-        tagline: > Nearly 50 years of experience in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations.
+        tagline: > 
 skills:
     title: Skills &amp; Proficiency
     toolset:
