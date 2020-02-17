@@ -72,7 +72,8 @@ experiences:
          - Apply Scrum testing process.
          
 projects:
-    title: ERT (eResearchTechnology, Inc.)
+    title: Project
+    project: ERT (eResearchTechnology, Inc.)
     intro: > 
      Nearly 50 years of experience in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations.
     
