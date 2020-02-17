@@ -48,7 +48,7 @@ experiences:
     - role: Tester
       time: October, 2017 to Present
       company: KMS Technology - ERT Project 
-      details: |
+      details: >
       The Tester works on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions.
       The Tester is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
           - Execute test scripts.
@@ -62,19 +62,19 @@ experiences:
     - role: Interns
       time: May, 2017 to October, 2017
       company: DEK Technology VN, Ho Chi Minh, Vietnam 
-      details: |
+      details: 
         - Execute test script, developed test cases and test scenarios for functional test
         - Prepare test environment on Jenkins.
         - Run test with Jenkins.
         - Support team member.
-        - Apply Agile/Scrum testing process
+        - Apply Scrum testing process
 projects:
     title: Project
     intro: >
     assignments:
       - title: ERT - eResearch Technology, Inc.
         link: "#hook"
-        tagline: Nearly 50 years of experience in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations.
+        tagline: > Nearly 50 years of experience in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations.
 skills:
     title: Skills &amp; Proficiency
     toolset:
