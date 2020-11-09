@@ -82,12 +82,17 @@ experiences:
          - Apply Scrum testing process.
      
 projects:
-   title: ADDITIONAL INFORMATION
-   details: |
-    
+    title: ADDITIONAL INFORMATION
+    intro: |
       - At least 3 year of experience in software testing, has experience in automation testing
       - Commitment to excellence and self-improvement
       - Good IT background, critical and logical thinking skills
+
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
 
 
     
