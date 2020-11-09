@@ -79,13 +79,11 @@ experiences:
          - Prepare test environment on Jenkins.
          - Run test with Jenkins.
          - Support team member.
-         - Apply Scrum testing processsssss.
+         - Apply Scrum testing processssssst.
      
 projects:
     title: ADDITIONAL INFORMATION
-    details: |
-    
-       - At least 3 year of experience in software testing, has experience in automation testing
+    - At least 3 year of experience in software testing, has experience in automation testing
 
     
 skills:
