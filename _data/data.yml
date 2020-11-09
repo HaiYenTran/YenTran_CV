@@ -35,7 +35,7 @@ sidebar:
         link:
 career-profile:
     title: Career Profile
-    summary: Trustworthy, Reponsible, and Sociable
+    summary: Trustworthy, Responsible, and Sociable
    
 education:
     - degree: Bachelor's degree Communication and computer network
@@ -44,11 +44,21 @@ education:
     - degree: Fsoft – Global Software talent                                                   
       university: Fsoft
       time: 6-2016
+    - degree: KMS – Katalon course                                                
+      time: 8-2018
+    - degree: Test Automation - Selenium                                                
+      time: 12-2019
+    - degree: ISTQB course                                                
+      time: 6-2020
+    - degree: Test Automation - Custom framework                                                
+      time: 11-2020
 experiences:
    - role: Tester
      time: October, 2017 to Present
-     company: KMS Technology - ERT Project 
+     company: KMS Technology - Healthcare Project 
      details: | 
+      Nearly 50 years of experience in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations.
+      
       The Tester works on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV packageaccording to the SOPs and Work Instructions.
       The Tester is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
       - Execute test scripts
@@ -72,10 +82,12 @@ experiences:
          - Apply Scrum testing process.
          
 projects:
-    title: Project
-    project: ERT (eResearchTechnology, Inc.)
+    title: ADDITIONAL INFORMATION
+    project: 
     intro: > 
-     Nearly 50 years of experience in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations.
+     - At least 3 year of experience in software testing, has experience in automation testing
+     - Commitment to excellence and self-improvement
+     - Good IT background, critical and logical thinking skills
     
 skills:
     title: Skills &amp; Proficiency
@@ -98,6 +110,12 @@ skills:
         
       - name: Photoshop
         level: 40%
+        
+      - name: Groovy
+        level: 10%
+        
+      - name: Cucumber
+        level: 20%
         
 footer: >
  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Yen Hai Tran</a>
