@@ -84,19 +84,9 @@ experiences:
 projects:
     title: ADDITIONAL INFORMATION
     intro: |
-      
-    assignments:
-      - title: 
-        link: "#hook"
-        tagline: "At least 3 year of experience in software testing, has experience in automation testing"
-        
-      - title: 
-        link: "#hook"
-        tagline: "Commitment to excellence and self-improvement"
-        
-       - title: 
-        link: "#hook"
-        tagline: "Good IT background, critical and logical thinking skills"
+    tagline: "At least 3 year of experience in software testing, has experience in automation testing"
+    tagline: "Commitment to excellence and self-improvement"
+    tagline: "Good IT background, critical and logical thinking skills"
 
 
 
