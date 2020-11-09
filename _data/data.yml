@@ -116,7 +116,7 @@ skills:
       - name: Groovy
         level: 10%
         
-      - name: Cucumber
+      - name: Cucumber BDD framework
         level: 20%
         
 footer: >
