@@ -57,7 +57,7 @@ experiences:
      time: October, 2017 to Present
      company: KMS Technology - Healthcare Project 
      details: | 
-      Nearly 50 years of experience in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations.
+      One of biggest biopharmaceutical and healthcare organizations in the world with nearly 50 years of experience in clinical services and customizable medical devices
       
       The Tester works on the validation of study software, reports, translations and change control, as well as reviews and approves the CSV package according to the SOPs and Work Instructions.
       The Tester is also responsible for the overall test effort, quality, and timelines for assigned projects, taking ownership of the project and clearing any roadblocks that arise in day to day.
@@ -69,6 +69,8 @@ experiences:
       - Creates and runs reports on the project
       - Provides accurate testing estimates to squad team
       - Provides timely feedback when specifications are incomplete or inaccurate
+      - 3 points for estimation of timelines, project estimate tool
+      - Works as Offshore-QCC role to coordinate project, estimate and deal the timeline, budget hours, plan and assign tasks to team members.
    
    - role: Interns
      time: May, 2017 to October, 2017
@@ -82,7 +84,7 @@ experiences:
          - Apply Scrum testing process.
          
 projects:
-    title: Projects
+    title: Personal Projects
     intro: >
      
     assignments:
@@ -104,7 +106,7 @@ publications:
     intro: |
       
     papers:
-      - title:  At least 3 year of experience in software testing, has experience in automation testing
+      - title:  Over 3 year of experience in software testing, has experience in automation testing
         link:
         authors:
         conference:
@@ -123,35 +125,48 @@ publications:
         link:
         authors:
         conference:
+        
+      - title:  Build bridge among parties and reach to goal 
+        link:
+        authors:
+        conference:
+        
+      - title:  Going to full-stacks tester 
+        link:
+        authors:
+        conference:
+      
+      - title:  Proactive for reaching goal of projects 
+        link:
+        authors:
+        conference:
 
     
 skills:
     title: Skills &amp; Proficiency
     
     toolset:
-      - name: Python
-        level: 10%
-        
-      - name: Javascript 
-        level: 30%
         
       - name: Selenium
         level: 30%
         
-      - name: HTML5 & CSS
-        level: 50%
-        
       - name: Java
         level: 60%
-        
-      - name: Photoshop
-        level: 40%
-        
+                
       - name: Groovy
         level: 10%
         
       - name: Cucumber BDD framework
         level: 20%
+        
+      - name: Katalon
+        level: 60%
+        
+      - name: Jira
+        level: 90%
+        
+      - name: GitLab/GitHub
+        level: 60%
         
 footer: >
  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Yen Hai Tran</a>
