@@ -88,7 +88,8 @@ projects:
     assignments:
       - title:  Katalon - Internal project
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Understand web-based application automated testing"
+        tagline: "Know basic Katalon tool -Novice level"
 
       - title:  Selenium - Basic 
         link: "#"
@@ -114,7 +115,12 @@ publications:
         authors:
         conference:
 
-      - title:  Commitment to excellence and self-improvement
+      - title:  Good IT background, critical and logical thinking skills
+        link:
+        authors:
+        conference:
+        
+      - title:  Communicate progress, test results and quality risks both internally and directly to the client
         link:
         authors:
         conference:
