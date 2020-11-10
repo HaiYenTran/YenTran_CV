@@ -79,16 +79,45 @@ experiences:
          - Prepare test environment on Jenkins.
          - Run test with Jenkins.
          - Support team member.
-         - Apply Scrum testing process
+         - Apply Scrum testing process.
      
 projects:
-    title: ADDITIONAL INFORMATION
-    details: |
-         - At least 3 year of experience in software testing, has experience in automation testing.
-         - Commitment to excellence and self-improvement.
-         - Good IT background, critical and logical thinking skills.
+    title: Projects
+    intro: >
+     
+    assignments:
+      - title: Katalon - Internal project
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
+      - title: Selenium - Basic 
+        link: "#"
+        tagline: "Hand-on experience in Java language"
 
+      - title: Selenium - Custom Framework
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+     
+ publications:
+    title: ADDITIONAL INFORMATION 
+    intro: |
+      
+    papers:
+      - title: "At least 3 year of experience in software testing, has experience in automation testing"
+        link: 
+        authors: 
+        conference: 
+
+      - title: "Commitment to excellence and self-improvement"
+        link: 
+        authors: 
+        conference: 
+
+      - title: Commitment to excellence and self-improvement
+        link: 
+        authors: 
+        conference: 
 
     
 skills:
