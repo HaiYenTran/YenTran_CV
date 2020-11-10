@@ -80,44 +80,44 @@ experiences:
          - Run test with Jenkins.
          - Support team member.
          - Apply Scrum testing process.
-     
+         
 projects:
     title: Projects
     intro: >
      
     assignments:
-      - title: Katalon - Internal project
+      - title:  Katalon - Internal project
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Selenium - Basic 
+      - title:  Selenium - Basic 
         link: "#"
         tagline: "Hand-on experience in Java language"
 
-      - title: Selenium - Custom Framework
+      - title:  Selenium - Custom Framework
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
      
- publications:
-    title: ADDITIONAL INFORMATION 
+publications:
+    title:  ADDITIONAL INFORMATION 
     intro: |
       
     papers:
-      - title: "At least 3 year of experience in software testing, has experience in automation testing"
-        link: 
-        authors: 
-        conference: 
+      - title:  At least 3 year of experience in software testing, has experience in automation testing
+        link:
+        authors:
+        conference:
 
-      - title: "Commitment to excellence and self-improvement"
-        link: 
-        authors: 
-        conference: 
+      - title:  Commitment to excellence and self-improvement
+        link:
+        authors:
+        conference:
 
-      - title: "Commitment to excellence and self-improvement"
-        link: 
-        authors: 
-        conference: 
+      - title:  Commitment to excellence and self-improvement
+        link:
+        authors:
+        conference:
 
     
 skills:
