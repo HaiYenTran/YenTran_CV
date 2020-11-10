@@ -88,16 +88,15 @@ projects:
     assignments:
       - title:  Katalon - Internal project
         link: "#hook"
-        tagline: "Understand web-based application automated testing"
-        tagline: "Know basic Katalon tool -Novice level"
+        tagline: "Understand web-based application automated testing. Able to write custom keywords using Groovy language "
 
       - title:  Selenium - Basic 
         link: "#"
-        tagline: "Hand-on experience in Java language"
+        tagline: "Know basic Selnium tool -Novice level"
 
       - title:  Selenium - Custom Framework
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Have the overview of a test automation framework."
 
      
 publications:
